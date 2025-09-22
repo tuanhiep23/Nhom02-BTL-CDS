@@ -1,0 +1,35 @@
+Trí tuệ nhân tạo (AI) và Machine Learning
+
+I. Giới thiệu về AI
+Trí tuệ nhân tạo (Artificial Intelligence - AI) là khả năng của máy móc thực hiện các nhiệm vụ thường đòi hỏi trí thông minh con người như học hỏi, suy luận, nhận thức và hiểu ngôn ngữ tự nhiên.
+
+II. Machine Learning
+Machine Learning (ML) là một nhánh của AI cho phép máy tính học và cải thiện hiệu suất từ kinh nghiệm mà không cần được lập trình rõ ràng cho từng nhiệm vụ cụ thể.
+
+Các loại Machine Learning:
+1. Supervised Learning: Học có giám sát
+   - Sử dụng dữ liệu được gán nhãn
+   - Ví dụ: Phân loại email spam, nhận dạng hình ảnh
+
+2. Unsupervised Learning: Học không giám sát  
+   - Tìm hiểu mẫu trong dữ liệu không được gán nhãn
+   - Ví dụ: Phân cụm khách hàng, phát hiện bất thường
+
+3. Reinforcement Learning: Học tăng cường
+   - Học thông qua thử nghiệm và phản hồi
+   - Ví dụ: Game AI, robot tự động
+
+III. Ứng dụng của AI trong thực tế
+- Y tế: Chẩn đoán hình ảnh y khoa, phát triển thuốc
+- Giao thông: Xe tự lái, tối ưu hóa traffic
+- Tài chính: Phát hiện gian lận, trading tự động
+- Giáo dục: Hệ thống học tập cá nhân hóa
+
+IV. Thách thức và tương lai
+- Đạo đức AI và bias trong thuật toán
+- Tác động đến việc làm
+- Bảo mật và quyền riêng tư dữ liệu
+- Phát triển AI General Intelligence
+
+V. Kết luận
+AI và Machine Learning đang thay đổi cách chúng ta sống và làm việc. Việc hiểu rõ các khái niệm cơ bản này sẽ giúp chúng ta chuẩn bị tốt hơn cho tương lai số.
